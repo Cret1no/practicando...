@@ -1,2 +1,4 @@
 esta es la primera linea del archivo leeme2, insertada por bash
 esta es la segunda linea agregada por terminal
+	Esta es la tercer linea con sangria
+Esta es la cuarta linea
